@@ -1,0 +1,25 @@
+{
+    "name": "bare bones microservice and bare bones client",
+    "version" : "1.0",
+    "author":"heriipurnama",
+    "license":"MIT",
+    "dependencies":{
+        "seneca":"0.6.2"
+    },
+    "keywords":[
+        "seneca"
+        ],
+      "author": "Richard Rodger (http://richardrodger.com)",
+  "contributors": [
+    "Richard Rodger (http://richardrodger.com)",
+    "Peter Elger (https://github.com/pelger)",
+    "Cristian Ianto (https://github.com/iantocristian)",
+    "Mircea Alexandru (https://github.com/mirceaalexandru)"
+  ],
+    "files":[
+        "README.md",
+        "LICENSE.txt"
+        "satu.js (bare-bones-microservice)",
+        "client.js(bare-ones-client)"
+    ]
+}
